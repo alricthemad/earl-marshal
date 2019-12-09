@@ -19,7 +19,7 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 
 # Armor Standards and Inspections
 ## How to Inspect
-* Remember, inspections are pass/fail first. Ensure that the fighter knows that he or she has passed or failed, and provide the reason for any failure.  A fighter should be given the opportunity to remedy the failure and return to the marshal who failed the item for re-inspection.
+* Remember, inspections are pass/fail first. Ensure that the fighter knows that They have passed or failed, and provide the reason for any failure.  A fighter should be given the opportunity to remedy the failure and return to the marshal who failed the item for re-inspection.
 * If you wish to provide an opinion on an item, such as one that may be legal, but close to failure, be clear in your language so that the fighter understands that the information that you are offering is your opinion, not a requirement.
 * Conduct the inspection in the same order every time—this will help you avoid making errors
     * Have you signed in with the MOL?
@@ -178,12 +178,17 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
     * Memory loss of event before, during, or after injury occurred
     * Slurred/unclear speech
     * Vomiting
+ (This is not covered in Field Marshal 101. Probably should be) 
+* Injuries requiring proffesional medical services must be reported to the KEM/DEM Armored fighting within 24 hrs of the injury
+* Report must include a description of the injury and circumstances.
+* if possible, photos of the armor and/or weapon(s) involved, and the injury should be obtained and forwarded with the report	
+
 
 # MIT Program
 ## Purpose
 * Attempt to ensure a uniformity of training and experience among the marshallate such that rules are being enforced in the same way across the kingdom
 * Provide new marshals with the mental toolkit necessary to manage fights and uphold armor and weapons standards in potentially stressful situations
-* **REMEMBER**:  MITs are **NOT** marshals and cannot, on their own, monitor fights, inspect weapons, or sign off on paperwork.  
+* **REMEMBER**:  MITs are **NOT** marshals and cannot, on their own, monitor fights, inspect weapons, perform authorization bouts(may come under ‘monitor fights’) or sign off on paperwork.  
 
 ## Role of mentor
 * Provide guidance and practical instruction to the MIT
@@ -202,3 +207,10 @@ Please send comments to the [Deputy Earl Marshal for Training](mailto:dem-traini
 * It is expected that marshals will adhere to the same period appearance rules as are required of fighters (preferably exceeding them)
 * Marshals should conduct themselves in a calm and chivalrous manner at all times
 * Marshal should identifiable to spectators and fighters as a marshal from a distance by wearing the badge of the office and having a marshal’s staff. 
+
+Reporting (These are not specifically mentioned in Field Marshal 101)
+•	A brief report of the days activities and issues should be provided to the event MIC at the end of the day
+•	The event report must be completed within 7 days of the close of the event
+•	Reports should include some detail regarding the tournaments held, issues experienced and authorizations
+•	Re: Authorizations report should include names of those attempting authorization, the authorization(s) attempted and whether passed or failed
+
