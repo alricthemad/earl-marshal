@@ -15,7 +15,7 @@ This class is intended as a primer on how to be the marshal-in-charge of a moder
 ## Planning the event
 ### Communicate with the principals.
 * Autocrat
-    1. What types of activities he or she would like to see?
+    1. What types of activities they would like to see?
     2. Time constraints such as courts, lunch break.
     3. Will there be prizes for the tournaments/contests? If so, who is to provide them?
 * Dignitaries
@@ -112,9 +112,9 @@ This class is intended as a primer on how to be the marshal-in-charge of a moder
     * Did they have any problems?
         1. Safety issues (broken blades, stray arrows, injuries)
         2. Troublesome or belligerent individuals (You need to get the SCA name of these people and include them in your report.)
-    * Remind them to file their event reports within 10 days. Ask for a copy.
+    * Remind them to file their event reports within 7 days. Ask for a copy.
     * Make sure they have help for cleanup.
-* File your event report within 10 days.
+* File your event report within 7 days.
     * This is not optional—the report must be filed within that time span.
     * Besides, you’ll forget what happened if you don’t do it then, anyway.
 * Thank-you notes are a nice touch.
